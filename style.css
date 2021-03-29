@@ -1,0 +1,32 @@
+body{
+background-color:#32FF5A;
+}
+
+button{
+background-color:#32FFA2;
+}
+
+button:hover{
+background-color:yellow;
+}
+
+p{
+font-size:18px;
+color:#00A6FF;
+}
+
+header{
+color:yellow;
+}
+
+section h2{
+color:red;
+}
+
+.easteregg{
+color:#32FF5A;
+}
+
+button:hover{
+	background-color: #178C00;
+}
